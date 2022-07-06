@@ -1,0 +1,40 @@
+body{
+    width: 80%;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+.okay{
+    display: flex;
+    background-image: url("../personal-portfolio/images/top-banner.png");
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.wow
+{
+    width: 50%;
+    
+}
+.one{
+    font-size: 50px;
+}
+.two{
+    color:magenta;
+}
+.three{
+    padding-bottom: 15px;
+}
+.bt
+{
+    width: 120px;
+    height: 40px;
+    border-style: hidden;
+    border-radius: 0.3cm;
+    background-color:rgb(255, 99, 71);
+    color: whitesmoke;
+    font-weight: 600;
+}
+.img{
+    width: 100%;
+    margin: 60px 0 0 10px ;
+}
+
