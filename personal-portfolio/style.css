@@ -6,7 +6,6 @@ body{
 .okay{
     display: flex;
     background-image: url("../personal-portfolio/images/top-banner.png");
-    width: 100%;
     background-repeat: no-repeat;
 }
 .wow
