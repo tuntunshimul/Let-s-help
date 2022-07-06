@@ -1,39 +1,60 @@
-body{
+body {
     width: 80%;
     font-family: 'Poppins', sans-serif;
     margin: 0 auto;
 }
-.okay{
+
+.okay {
     display: flex;
-    background-image: url("../personal-portfolio/images/top-banner.png");
+    //background-image: url("../personal-portfolio/images/top-banner.png");
     background-repeat: no-repeat;
 }
-.wow
-{
+
+.wow {
     width: 50%;
-    
+
 }
-.one{
+
+.one {
     font-size: 50px;
 }
-.two{
-    color:magenta;
+
+.two {
+    color: magenta;
 }
-.three{
+
+.three {
     padding-bottom: 15px;
 }
-.bt
-{
+
+.bt {
     width: 120px;
     height: 40px;
     border-style: hidden;
     border-radius: 0.3cm;
-    background-color:rgb(255, 99, 71);
+    background-color: rgb(255, 99, 71);
     color: whitesmoke;
     font-weight: 600;
 }
-.img{
+
+.img {
     width: 100%;
-    margin: 60px 0 0 10px ;
+    margin: 60px 0 0 20px;
 }
 
+
+.nothing {
+    padding-top: 100px;
+    display: flex;
+    background-image: url("../personal-portfolio/images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right 400px;
+}
+
+.img1 {
+    width: 80%;
+}
+
+.nothing2 {
+    width: 50%;
+}
