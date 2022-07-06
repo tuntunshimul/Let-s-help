@@ -39,7 +39,7 @@ body {
 
 .img {
     width: 100%;
-    margin: 60px 0 0 20px;
+    margin: 10px 0 0 10px;
 }
 
 
@@ -57,4 +57,15 @@ body {
 
 .nothing2 {
     width: 50%;
+}
+
+.bt2 {
+    width: 200px;
+    height: 50px;
+    border-style: hidden;
+    border-radius: 0.3cm;
+    background-color: rgb(255, 99, 71);
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 18px;
 }
