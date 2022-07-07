@@ -71,25 +71,26 @@ p {
 
 }
 
-.img {
+.four {
     padding-top: 40px;
     padding-bottom: 0;
+    text-align: center;
 }
 
-.num {
+.five {
     width: 100%;
     text-align: center;
 
 }
 
-#box1 {
+#six {
     font-family: Inter;
     font-size: 45px;
     font-weight: 700;
 
 }
 
-#box2 {
+#seven {
     font-family: Poppins;
     font-size: 18px;
     font-weight: 400;
@@ -97,12 +98,54 @@ p {
 
 }
 
-h4 {
-    display: inline;
-    height: 100px;
-    width: 500px;
-    left: 200px;
-    top: 400px;
-    border-radius: 5px;
+.eight {
+    display: inline-flex;
 
+}
+
+.point {
+    padding: 20px;
+    margin-left: 10px;
+    background-color: #c9c3c3;
+}
+
+.btn_now {
+    background-color: #FF5959;
+    padding: 10px;
+    color: white;
+    border: 0;
+    margin-top: 20px;
+
+}
+
+.nine {
+    background-color: #c9c3c3;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.ten {
+    background-color: rgb(244, 194, 194);
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.eleven {
+    background-color: #eddd78;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.twelve {
+    padding: 40px;
+    background-color: blanchedalmond;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
 }
