@@ -83,16 +83,15 @@ p {
 
 }
 
-#six {
+.donate {
     font-family: Inter;
     font-size: 45px;
     font-weight: 700;
 
 }
 
-#seven {
+.man {
     font-family: Poppins;
-    font-size: 18px;
     font-weight: 400;
     line-height: 28px;
 
@@ -104,9 +103,27 @@ p {
 }
 
 .point {
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #FAFAFA;
+    border-radius: 5px;
     padding: 20px;
     margin-left: 10px;
-    background-color: #c9c3c3;
+
+
+}
+
+.point1 {
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    margin-left: 10px;
+    background-color: #FFEEEE;
+    border-radius: 5px;
+
+
 }
 
 .btn_now {
@@ -115,6 +132,7 @@ p {
     color: white;
     border: 0;
     margin-top: 20px;
+    border-radius: 5px;
 
 }
 
@@ -145,7 +163,39 @@ p {
 .twelve {
     padding: 40px;
     background-color: blanchedalmond;
-    width: 50%;
+    width: 40%;
     margin: auto;
     border-radius: 10px;
+}
+
+.cola {
+    background: #0B0D17;
+    width: 100%;
+
+}
+
+.foot {
+
+    font-family: 'Lobster', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: #FF5959;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.end {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+    text-align: center;
+    padding-bottom: 15px;
+
 }
